@@ -1,0 +1,1 @@
+# [VR Mini Project 2](https://github.com/vr-assignments/VR_MiniProject2_IMT2022_073_086_103) : Multimodal Visual Question Answering and Finetuning with LoRA on Amazon Berkeley Objects Dataset
